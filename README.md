@@ -2,7 +2,7 @@
 - 👀 I’m interested in OpenHab
 - 🌱 I’m currently learning Openhab, GitHub... ;)
 - 💞️ I’m looking to collaborate to read values of SMA Inverter
-- 📫 How to reach me
+- 📫 How to reach me, best by PM....
 
 <!---
 Stephan556/Stephan556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
